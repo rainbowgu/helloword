@@ -7,3 +7,6 @@ print "nihao"
 c(){
 print "gggg"
 }
+v£¨£©{
+print "1123cd"
+}
