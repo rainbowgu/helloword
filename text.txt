@@ -4,3 +4,6 @@ print "hello world!"
 metho(){
 print "nihao"
 }
+c(){
+print "gggg"
+}
